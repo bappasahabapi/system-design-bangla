@@ -1,4 +1,13 @@
-# সিস্টেম ডিজাইন বাংলা
+### Github resource for scalable system design & architecture.
+https://github.com/binhnguyennus/awesome-scalability
+https://github.com/ramitsurana/awesome-kubernetes
+https://github.com/DovAmir/awesome-design-patterns
+https://github.com/mfornos/awesome-microservices
+https://github.com/alexpate/awesome-design-systems
+https://github.com/madd86/awesome-system-design
+https://github.com/simskij/awesome-software-architecture
+https://github.com/theanalyst/awesome-distributed-systems
+https://github.com/unicodeveloper/awesome-tdd# সিস্টেম ডিজাইন বাংলা
 
 এটি একটি রিপোজিটরি যেখানে সিস্টেম ডিজাইন এর মৌলিক জিনিসগুলো নিয়ে আলোচনা করা হয়েছে।
 
